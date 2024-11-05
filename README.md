@@ -14,5 +14,5 @@ Project Type: qmake
 
 A hiragana or katakana symbol is displayed. You type the syllables in latin letters. 
 
-Hiragana: の = no
+Hiragana: の = no  
 Katakana: ツ = tsu
