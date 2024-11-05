@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/icons/correct.svg</file>
+        <file>data/icons/fail.svg</file>
+        <file>table/Hiragana.png</file>
+        <file>table/Katakana.png</file>
+    </qresource>
+</RCC>
