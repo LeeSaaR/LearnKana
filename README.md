@@ -1,11 +1,11 @@
 # LearnKana
 LearnKana is an C++/Qt Application, with which you can learn japanese Hiragana and Katakana.
 
-Language: C++
-Framework: Qt 6.5.2
-Tested Compiler: MSVC 2019 64bit
-Used Modules: QtSql
-Database: sqlite3
+Language: C++  
+Framework: Qt 6.5.2  
+Tested Compiler: MSVC 2019 64bit  
+Used Modules: QtSql  
+Database: sqlite3  
 Project Type: qmake
 
 ***
